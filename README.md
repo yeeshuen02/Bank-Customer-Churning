@@ -1,1 +1,1 @@
-# Bank-Customer-Churning
+# Machine Learning Projects
